@@ -1,0 +1,1 @@
+A set of functions in the form of a script for patching files with various sequences of bytes.

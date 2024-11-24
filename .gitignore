@@ -1,0 +1,4 @@
+build
+*.o
+english.txt
+polish.txt
